@@ -70,9 +70,6 @@ Para implantar o bot em um ambiente ativo, hospede o projeto em um servidor dedi
 
 * [discord.js](https://discord.js.org/) - A biblioteca usada para interagir com a API do Discord.
 
-## 📌 Versão
-
-Usamos [SemVer](http://semver.org/) para controle de versão. Veja as versões disponíveis nas [tags do repositório](https://github.com/seu-usuario/the-sense1/tags).
 
 ## ✒️ Autores
 
